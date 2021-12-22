@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 public class Course {
 
-
+    @Id
     private Long id;
 
     private String category;
